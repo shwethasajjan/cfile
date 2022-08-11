@@ -4,7 +4,7 @@ rev() {
 
   int n, reverse = 0, remainder;
 
-  printf("\n Enter an integer for checking reverse of number: \n");
+  printf("\n Enter an integer for checking reverse of number1: \n");
   scanf("%d", &n);
 
   while (n != 0) {
